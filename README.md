@@ -2,5 +2,5 @@
 
 This repository holds configuration settings for the following microservices.
 
-- resturant
+- restaurant
 - user
